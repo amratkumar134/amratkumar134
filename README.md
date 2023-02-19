@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/amrat-kumar-774363220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrat kumar" height="30" width="40" /></a>
 <a href="https://fb.com/amrat kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amrat kumar" height="30" width="40" /></a>
-<a href="[https://instagram.com/amrat_kumar134](https://instagram.com/amrat_kumar134?igshid=ZDdkNTZiNTM=)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrat_kumar134" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amrat_kumar134/?igshid=ZDdkNTZiNTM%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrat_kumar134" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/amrat tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amrat tech" height="30" width="40" /></a>
 </p>
 
