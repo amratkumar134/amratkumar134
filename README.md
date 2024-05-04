@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amratkumar134&label=Profile%20views&color=0e75b6&style=flat" alt="amratkumar134" /> </p>
 
-- 🔭 I’m currently working on **Tutor App with learning management system**
 
-- 🌱 I’m currently learning **React js, Flutter**
+
+
 
 - 💬 Ask me about **Javascript**
 
